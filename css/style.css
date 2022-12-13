@@ -875,6 +875,7 @@ h3 {
   transform: scale(1.03) rotate(-1deg);
 }
 .item2{
+  background-image:url('../img/photo_5.jpg');
   margin: 1vh 1vh 1vh auto;
   width: 12.5vw;
   height: 15vh;
@@ -891,21 +892,25 @@ h3 {
 }
 
 .item1{
+  background-image:url('../img/photo_1.jpg');
   width: 14vw;
   height: 28vh;
   background-size: 32vh;
   
 }
 .item5{
+  background-image:url('../img/photo_4.jpg');
   width: 12vw;
   height: 25vh;
   background-size: 32vh;
   background-position: right;
 }
 .item4{
+  background-image:url('../img/photo_3.jpg');
   width: 8vw;
 }
 .item3{
+  background-image:url('../img/photo_2.jpg');
   height: 30vh;
   background-size: 34vh;
   width: 17vw;
@@ -922,6 +927,7 @@ h3 {
   background-size:42vh;
 }
 .item6{
+  background-image:url('../img/photo_6.jpg');
   height: 25vh;
   background-size: 34vh;
   width: 17vw;
