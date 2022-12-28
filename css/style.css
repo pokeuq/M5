@@ -1552,3 +1552,8 @@ h3 {
   }
  
 }
+@media screen and (max-width:500px){
+  .star-rating{
+    transform: scale(0.7);
+  }
+}
