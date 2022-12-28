@@ -1095,6 +1095,9 @@ h3 {
     padding:0;
     margin: 2rem 4rem;
   }
+  .description p a{
+    margin-top: 1em;
+  }
 }
 @media screen and (max-width:600px){
   .title{
