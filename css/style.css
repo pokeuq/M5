@@ -1306,7 +1306,7 @@ h3 {
 }
 @media only screen and (max-width: 435px){
   .photos{
-    margin-top: 80rem;
+    margin-top: 100rem;
   }
   .item {
     width: 40vw;
@@ -1322,12 +1322,12 @@ h3 {
 }
 @media only screen and (max-width: 386px){
   .photos{
-    margin-top: 90rem;
+    margin-top: 110rem;
   }
 }
 @media only screen and (max-width: 366px){
   .photos{
-    margin-top: 97.5rem;
+    margin-top: 117.5rem;
   }
   .item {
     width: 50vw;
