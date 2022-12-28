@@ -1120,7 +1120,7 @@ h3 {
 }
 @media screen and (max-width:430px){
   .member{
-    transform: scale(0.95);
+    transform: scale(0.85);
   }
   .description h3{
     font-size: 1em;
@@ -1132,7 +1132,7 @@ h3 {
   font-size: 1.6rem;
 }
 .member:hover{
-  transform: scale(1.02);
+  transform: scale(0.92.5);
 }
 }
 
