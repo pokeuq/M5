@@ -485,6 +485,7 @@ p{
   .full-screen__video{
     transform: scale(0.5);
     margin: -9rem 0 0 0 ;
+    outline: 0px solid #fff;
   }
   .full-screen__body{
     margin:10rem 0 0  0;
@@ -496,8 +497,8 @@ p{
     transform: scale(0.4);
   }
   .full-screen__body{
-    margin-top: 150px;
-    margin-bottom: -130px;
+    margin-top: 0px;
+    margin-bottom: -10px;
   }
   
 }
